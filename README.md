@@ -1,5 +1,6 @@
-**FPGA-Based Obstacle Avoidance System Using Verilog**
-*23ECE383 – VLSI Design Laboratory Term Project*
+# FPGA-Based Obstacle Avoidance System Using Verilog
+ ---
+###23ECE383 – VLSI Design Laboratory Term Project
 
 📘 **Project Overview**
 This project presents the design, simulation, and FPGA implementation of an ultrasonic obstacle avoidance system using Verilog HDL. The system measures real-time distance between 0 cm and 49 cm with ±1 cm accuracy, displays it on a 7-segment display, and transmits data wirelessly through an ESP32 module. A web-based dashboard provides live updates and proximity alerts, offering a reliable safety solution for vehicle applications.
