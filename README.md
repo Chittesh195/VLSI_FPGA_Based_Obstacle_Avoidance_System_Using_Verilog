@@ -72,6 +72,9 @@ This project presents the design, simulation, and FPGA implementation of an ultr
 7. **UART Transmission** – Sends updated data to ESP32 when distance changes.
 8. **Cooldown** – Waits for sensor stability before the next cycle.
 
+<img width="917" height="322" alt="state-machine-view" src="https://github.com/user-attachments/assets/8bc02f83-b39f-4129-b808-ccd84433ac92" />
+
+
 ---
 
 🧪 **Simulation & Implementation**
