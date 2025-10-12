@@ -118,10 +118,4 @@ This project presents the design, simulation, and FPGA implementation of an ultr
 📚 **References**
 
 1. Xilinx Inc., *Vivado Design Suite User Guide*, 2025.
-2. Sedra & Smith, *Microelectronic Circuits*, Oxford University Press, 2010.
-3. Texas Instruments, *Designing With Operational Amplifiers*, TI Application Notes.
-4. HC-SR04 Datasheet, SparkFun Electronics.
-
----
-
-Would you like me to make a **poster-style version** (with emojis, visuals, and minimal text) or a **short write-up** suitable for your lab record submission?
+2. HC-SR04 Datasheet, SparkFun Electronics.
