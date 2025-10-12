@@ -45,7 +45,7 @@ This project presents the design, simulation, and FPGA implementation of an ultr
 | Sensor        | HC-SR04 Ultrasonic Sensor                  |
 | Communication | ESP32 Wi-Fi Module                         |
 | Software      | Vivado 2025.1, ModelSim 10.5b, Arduino IDE |
-| serial communication       | TTL to Usb Convertor          |
+| Serial Communication       | TTL to Usb Convertor          |
 
 ---
 
