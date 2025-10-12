@@ -103,7 +103,6 @@ This project presents the design, simulation, and FPGA implementation of an ultr
 | Signal instability at short range | Added timeout logic and cooldown delay         |
 | UART sync errors                  | Implemented start/stop bit verification        |
 | Limited sensor accuracy           | Calibrated COUNTS_PER_CM constant in Verilog   |
-| Power noise on breadboard         | Used shielded wiring and decoupling capacitors |
 
 ---
 
