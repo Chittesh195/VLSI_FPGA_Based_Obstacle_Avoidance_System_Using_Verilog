@@ -43,7 +43,7 @@ This project presents the design, simulation, and FPGA implementation of an ultr
 | ------------- | ------------------------------------------ |
 | FPGA Board    | Basys 3 (Xilinx Artix-7)                   |
 | Sensor        | HC-SR04 Ultrasonic Sensor                  |
-| Communication | ESP32 Wi-Fi Module                         |
+| Communication | Pmod ESP32 Wi-Fi Module                         |
 | Software      | Vivado 2025.1, ModelSim 10.5b, Arduino IDE |
 | Serial Communication       | TTL to Usb Convertor          |
 
